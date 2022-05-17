@@ -1,2 +1,2 @@
 # TestCredential
-Wrapper around System.Security.Principal.PrincipalContext to validate a credential.
+Wrapper around System.DirectoryServices.AccountManagement to validate a credential.
